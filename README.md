@@ -18,7 +18,7 @@
 </details>
 
 <details>
-    <summary><strong>Comandos para instalar</strong></summary>
+    <summary><strong>Como inicializar el proyecto sadosa-frontend</strong></summary>
 
 Abrir una ventana de comandos CMD
   
